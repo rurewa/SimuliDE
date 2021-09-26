@@ -6,4 +6,4 @@ cd ~ ; wget https://launchpad.net/simulide/0.4.15/0.4.15-stable/+download/simuli
 
 ## Установка d Ubuntu new:
 
- git clone https://github.com/rurewa/SimuliDE.git && cp $HOME/SimuliDE/SimulIDE.desktop $HOME/Рабочий\ стол/
+git clone https://github.com/rurewa/SimuliDE.git && cp ${HOME}/SimuliDE/SimulIDE.desktop ${HOME}/Рабочий\ стол/
