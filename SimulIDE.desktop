@@ -5,6 +5,6 @@ Name=SimulIDE
 Terminal=false
 Hidden=false
 Categories=Development; Education; Science
-Exec=/home/user/SimuliDE/simulide_0.4.15-SR7.AppImage
+Exec=/home/user/SimuliDE/simulide.AppImage
 Path=/home/user/SimuliDE
 StartupWMClass=arronax
