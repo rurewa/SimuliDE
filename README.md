@@ -6,4 +6,4 @@ git clone https://github.com/rurewa/SimuliDE.git && cp ${HOME}/SimuliDE/SimulIDE
 
 ## Обновление (beta):
 
-cd ~ ; rm -rf SimuliDE/ && git clone https://github.com/rurewa/SimuliDE.git && cp ${HOME}/SimuliDE/SimulIDE.desktop ${HOME}/Рабочий\ стол/
+cd ~ ; cd SimuliDE/ && git pull
