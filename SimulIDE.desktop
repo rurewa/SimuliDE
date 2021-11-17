@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=Application
-Icon=/home/user/SimuliDE/simulide_header.png
+Icon=/home/${HOME}/SimuliDE/simulide_header.png
 Name=SimulIDE
 Terminal=false
 Hidden=false
 Categories=Development; Education; Science
-Exec=/home/user/SimuliDE/simulide.AppImage
-Path=/home/user/SimuliDE
+Exec=/home/${HOME}/SimuliDE/simulide.AppImage
+Path=/home/${HOME}/SimuliDE
 StartupWMClass=arronax
